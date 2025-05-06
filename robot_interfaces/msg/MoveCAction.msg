@@ -1,0 +1,2 @@
+std_msgs/Float64MultiArray pose_array
+std_msgs/Bool must_pass_through_middle
